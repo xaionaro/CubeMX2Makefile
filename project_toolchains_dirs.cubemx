@@ -1,0 +1,5 @@
+project toolchain SW4STM32
+project generate
+project toolchain TrueSTUDIO
+project generate
+exit
